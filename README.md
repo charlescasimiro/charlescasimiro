@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 
+
+I am currently an Associate Professor with the Department of Teleinformatics Engineering of the Federal University of Ceará (UFC), Brazil. 
 
 <!--
 **charlescasimiro/charlescasimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
